@@ -1,28 +1,13 @@
 ---
-title: Do you provide customer support?
+title: Algemene vragen?
 categories: [presale]
 ---
 
 Having support for your purchased item means that we will be available to you to iron out any potential issues you have in using the item.
 
-#### The item support period
-The item includes support for 6 months from the purchase date. If you’re about to purchase the item, you’ll have the option to purchase extended item support, increasing the item support period up to a maximum of 12 months from the date of purchase.
+####  Ik huur nu al een kamer bij jullie, maar zou volgend jaar een andere kamer bij jullie willen huren.
 
-#### What else is included?
-Answering questions about how to use the item
-Answering technical questions about the item (and included third party assets)
-Help with defects in the item or included third-party assets
-Item updates to ensure ongoing compatibility and to resolve security vulnerabilities
-Updates to ensure the item works as described and is protected against major security concerns
-Included version updates for all items
- 
+Interne wissels zijn uiteraard perfect mogelijk. Studenten die reeds een kamer bij ons huren krijgen voorrang op nieuwe huurders. Je kan dan best  een mail sturen in de week voor de eerste opendeurdagen.
 
-#### What's not included in item support?
-Item support does not include services to modify or extend the item beyond the original features, style and functionality described on the item page. For customization services that will help you tailor the item to your specific requirements, we recommend contacting us to see if we privately offer paid customization service.
-
-- Installation of the item
-- Hosting, server environment, or software
-- Help from authors of included third-party assets
-
-#### Contacting support
-Support is provided Mon - Fri through item [support](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) page.
+#### Krijg ik mijn waarborg terug na afloop van het contract?
+Indien je kamer in orde zoals beschreven in de plaatsbeschrijving dan zal deze uiteraard worden terugbetaald door ons.  We kunnen dit enkel via overschrijving doen en dus niet cash. Indien elektriciteit en verwarming niet inbegrepen zijn, houden wij deze onkosten meteen van je waarborg af bij de terugbetaling.

@@ -1,10 +1,16 @@
 ---
-title: Are updates and bug fixes included in the cost of the item?
+title: Praktish?
 categories: [presale]
 ---
 
-Regardless of whether you have support or not:
+#### Ik studeer niet aan de KUL, kan ik dan wel op internet?
 
-- When we release an update, it will be available for you to download for free
-- You can report bugs
-- You can expect us to keep the item in good working order, working as described and protected against major security issues
+Ja, dit is inbegrepen.
+
+#### Ik zou graag andere meubels willen plaatsen kan ik de meubels in de kamer bij jullie stockeren?
+
+Neen, als huurder ben je zelf verantwoordelijk voor alles wat er in je kamer staat. Indien je een ander bed wil plaatsen kan dit, maar moet je zelf het originele bed weghalen. Zorg er natuurlijk wel voor dat de originele meubels er op het einde van je contract weer staan.
+
+#### Poetsen jullie ook mijn kamer?
+
+Neen. Wij poetsen enkel de gemeenschappelijke ruimtes. Dit houdt in dat we de gangen, gemeenschappelijke keuken(s), leefruimte en gemeenschappelijke badkamers poetsen. Het poetsgerief staat er om te gebruiken maar jullie moeten het wel terug plaatsen na gebruik.
