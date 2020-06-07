@@ -1,6 +1,6 @@
 ---
-title: Can I extend or renew my item support?
-categories: [presale]
+title: Juumo?
+categories: [product]
 ---
 
 #### Item support option

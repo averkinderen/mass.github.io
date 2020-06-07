@@ -22,7 +22,7 @@ header:
 {% include faqs.html 
   multiple="true" 
   category="presale" 
-  section_title="Presale questions" 
+  section_title="Veelgestelde vragen" 
   section_size="large"
   section_background="default"
   section_container="xsmall"
@@ -31,8 +31,8 @@ header:
 
 {% include faqs.html 
   multiple="false" 
-  category="presale" 
-  section_title="Product questions" 
+  category="product" 
+  section_title="Juumo Vragen" 
   section_size="large"
   section_background="default"
   section_padding_remove="top"

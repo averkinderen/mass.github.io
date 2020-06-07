@@ -1,5 +1,5 @@
 ---
-title: Does the item come with installation and setup documentation?
+title: Gemeenschappelijke delen?
 categories: [presale]
 ---
 
