@@ -3,6 +3,9 @@ title: Koten
 subtitle: koten te huur in leuven. 
 layout: full
 width: full
+permalink: /
+redirect_from:
+  - /portfolio
 navbar:
   sticky: true
   scroll_up: true
