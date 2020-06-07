@@ -8,7 +8,7 @@
 title:                  Mass Koten
 description:            Verhuur koten Mass
 url:                    "https://koten.mass.be" # Site base hostname & protocol, e.g. http://example.com
-baseurl:                /portfolio
+baseurl:                # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.svg
 logo_light:             logo-light.svg

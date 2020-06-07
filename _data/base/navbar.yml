@@ -5,6 +5,7 @@ center:
   - title: Home
     url: /
 
+
   - title: Features
     dropdown:
       - title: Components
@@ -36,7 +37,4 @@ center:
 right:
   - title: Form
     url: https://themeforest.net/item/eon-multipurpose-responsive-jekyll-theme/24065900
-    button: default
-  - title: Juumo
-    url: https://https://app.juumo.io/
     button: default
