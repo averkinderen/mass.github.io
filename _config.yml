@@ -7,7 +7,7 @@
 # Site settings
 title:                  Mass Koten
 description:            Multipurpose Jekyll theme.
-url:                    https://koten.mass.be" # Site base hostname & protocol, e.g. http://example.com
+url:                    "https://koten.mass.be" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.svg
