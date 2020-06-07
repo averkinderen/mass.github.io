@@ -1,6 +1,6 @@
 ---
-title: Shoreditch
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam consetetur sadipscing invidunt ut labore voluptua.
+title: Studio 201
+subtitle: Prachtige studio.
 width: full
 image: portfolio-1-thumb.jpg
 topics: [United Kingdom]
