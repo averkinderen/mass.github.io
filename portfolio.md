@@ -11,7 +11,7 @@ navbar:
   transparent_color: light
 header:
   layout: center
-  background_image: KU-Leuven_branded.jpg
+  background_image: header-9.jpeg
   background_overlay: "rgba(0, 0, 0, 0.25)"
   color: light
   header_size: large
