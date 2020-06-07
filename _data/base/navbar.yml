@@ -41,16 +41,10 @@ center:
       - title: Dark
         url: /map-dark/
 
-  - title: Portfolio
+  - title: koten
     url: /portfolio/
-
-  - title: Blog
-    url: /blog/
-
-  - title: 404
-    url: /404/
     
 right:
-  - title: Purchase
+  - title: Form
     url: https://themeforest.net/item/eon-multipurpose-responsive-jekyll-theme/24065900
     button: default
