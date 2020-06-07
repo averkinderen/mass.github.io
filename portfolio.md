@@ -11,7 +11,7 @@ navbar:
   transparent_color: light
 header:
   layout: center
-  background_image: header-9.jpeg
+  background_image: leuven.jpg
   background_overlay: "rgba(0, 0, 0, 0.25)"
   color: light
   header_size: large
