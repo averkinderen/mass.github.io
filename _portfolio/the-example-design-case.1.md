@@ -17,6 +17,8 @@ header:
   parallax: true
 ---
 
+test
+
 {% include block.html 
   block="content-post"
   section_size="medium"
