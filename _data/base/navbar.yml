@@ -5,17 +5,6 @@ center:
   - title: Home
     url: /
 
-  - title: Headers
-    dropdown:
-      - title: Search
-        url: /header-search/
-      - title: Video
-        url: /header-video/
-      - title: Signup
-        url: /header-signup/
-      - title: CTA
-        url: /header-cta/
-
   - title: Features
     dropdown:
       - title: Components

@@ -1,6 +1,6 @@
 ---
-title: Recent Work
-subtitle: His for little is options her measures ill one self-interest, a frequency, process all screen to a which very the is expectations. 
+title: Koten
+subtitle: koten te huur in leuven. 
 layout: full
 width: full
 navbar:
@@ -11,7 +11,7 @@ navbar:
   transparent_color: light
 header:
   layout: center
-  background_image: header-6.jpg
+  background_image: KU-Leuven_branded.jpg
   background_overlay: "rgba(0, 0, 0, 0.25)"
   color: light
   header_size: large

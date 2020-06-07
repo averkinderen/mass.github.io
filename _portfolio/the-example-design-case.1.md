@@ -1,16 +1,16 @@
 ---
 title: Studio 201
-subtitle: Prachtige studio.
+subtitle: Prachtige studio dicht bij Gasthuisberg 26m².
 width: full
 image: portfolio-1-thumb.jpg
-topics: [United Kingdom]
+topics: [studio]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-1-header.jpg
+  background_image: kot-tervuursesteenweg-leuven-5ed66b3eef9c0.jpeg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge

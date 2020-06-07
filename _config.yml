@@ -6,7 +6,7 @@
 
 # Site settings
 title:                  Mass Koten
-description:            Multipurpose Jekyll theme.
+description:            Verhuur koten Mass
 url:                    "https://koten.mass.be" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                # Site subpath, e.g. /blog
 lang:                   en
@@ -22,7 +22,7 @@ paginate_path:          "/blog/:num/" # Blog path
 
 # Default author settings
 author:
-  name:                 Pete Seth
+  name:                 Alexandre Verkinderen
   avatar:               avatar-tom.png
   title:                Support     
   bio:                  I am the CEO of this company, loved by everyone, just plain awesome so you want to follow me all the time.
