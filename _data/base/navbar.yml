@@ -36,12 +36,12 @@ center:
   - title: FAQ
     url: /faq/
 
-  - title: Contact Form
+  - title: Contact Us
     url: /contact/
     
 right:
   - title: Registration Form
-    url: /cta/
+    url: /form/
     button: default
 
   - title: Juumo
