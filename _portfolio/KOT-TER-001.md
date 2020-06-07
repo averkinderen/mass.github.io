@@ -1,7 +1,7 @@
 ---
 title: Kot 001
 subtitle: Leuke kamer 14m2 net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
-image: portfolio-8-thumb.jpg
+image: studio-leuven-36-5-576x467.jpg
 topics: [kot]
 width: full
 navbar:
