@@ -1,6 +1,4 @@
 ---
-title: Call To Action
-subtitle: Add any content in this header section, text, search, newsletter signup, buttons, images, videos...
+title: Registrtion Form
+subtitle: Please start filling in the form so we can draw a new contract.
 ---
-
-{% include button.html size="xlarge" text="Purchase" icon="cart" url="#" blank="true" style="primary" %}

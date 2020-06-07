@@ -40,8 +40,8 @@ center:
     url: /contact/
     
 right:
-  - title: Form
-    url: https://themeforest.net/item/eon-multipurpose-responsive-jekyll-theme/24065900
+  - title: Registration Form
+    url: /cta/
     button: default
 
   - title: Juumo
