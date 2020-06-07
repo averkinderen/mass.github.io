@@ -1,8 +1,8 @@
 ---
-title: Wall Street
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-6-thumb.jpg
-topics: [United States]
+title: Kot 201
+subtitle: Leuke kamer net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-3-thumb.jpg
+topics: [kot]
 width: full
 navbar:
   sticky: false
@@ -10,8 +10,8 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-6-header.jpg
-  background_overlay: "rgba(0, 0, 0, 0.5)"
+  background_image: portfolio-3-header.jpg
+  background_overlay: "rgba(0, 0, 0, 0.7)"
   color: light
   header_size: xlarge
   parallax: true
@@ -28,7 +28,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot201"
 	caption="true"
 	lightbox="true"
   section_size="medium"

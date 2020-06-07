@@ -5,7 +5,6 @@ center:
   - title: Home
     url: /
 
-
   - title: Features
     dropdown:
       - title: Components
@@ -36,6 +35,9 @@ center:
 
   - title: FAQ
     url: /faq/
+
+  - title: Contact Form
+    url: /contact/
     
 right:
   - title: Form

@@ -1,23 +1,21 @@
 ---
-title: Studio 201
-subtitle: Prachtige studio dicht bij Gasthuisberg 26m².
+title: Kot 001
+subtitle: Leuke kamer 14m2 net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-8-thumb.jpg
+topics: [kot]
 width: full
-image: portfolio-1-thumb.jpg
-topics: [studio]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: IMG_20140829_173007.jpg
+  background_image: portfolio-8-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
 ---
-
-test
 
 {% include block.html 
   block="content-post"
@@ -30,7 +28,7 @@ test
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot001"
 	caption="true"
 	lightbox="true"
   section_size="medium"

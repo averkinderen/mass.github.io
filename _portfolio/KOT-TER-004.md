@@ -1,16 +1,16 @@
 ---
-title: Zürich
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-4-thumb.jpg
+title: Kot 004
+subtitle: Leuke kamer 14m2 net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-7-thumb.jpg
+topics: [kot]
 width: full
-topics: [Switzerland]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-4-header.jpg
+  background_image: portfolio-7-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
@@ -28,7 +28,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot104"
 	caption="true"
 	lightbox="true"
   section_size="medium"

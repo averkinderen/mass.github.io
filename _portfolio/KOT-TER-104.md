@@ -1,16 +1,16 @@
 ---
-title: Los Angeles
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-8-thumb.jpg
-topics: [United States]
+title: Kot 104
+subtitle: Leuke kamer 14m2 net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-4-thumb.jpg
 width: full
+topics: [kot]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-8-header.jpg
+  background_image: portfolio-4-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
@@ -28,7 +28,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot104"
 	caption="true"
 	lightbox="true"
   section_size="medium"

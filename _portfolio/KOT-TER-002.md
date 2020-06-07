@@ -1,8 +1,8 @@
 ---
-title: Rio de Janeiro
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-7-thumb.jpg
-topics: [Brazil]
+title: Kot 002
+subtitle: Leuke duplex kamer net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-8-thumb.jpg
+topics: [kot]
 width: full
 navbar:
   sticky: false
@@ -10,7 +10,7 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-7-header.jpg
+  background_image: portfolio-8-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
@@ -28,7 +28,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot002"
 	caption="true"
 	lightbox="true"
   section_size="medium"

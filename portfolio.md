@@ -22,7 +22,7 @@ header:
 
 {% include portfolio.html 
   section_size="large"
-  section_title="Portfolio with topic filter"
+  section_title="Koten te huur Tervuursesteenweg 233 Leuven"
   section_header_align="center"
   grid="1-3"
   filter="true"

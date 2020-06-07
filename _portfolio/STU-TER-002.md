@@ -1,21 +1,23 @@
 ---
-title: Kot 101 
-subtitle: Donsetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-2-thumb.jpg
-topics: [France]
+title: Studio 201
+subtitle: Prachtige studio dicht bij Gasthuisberg 26m².
 width: full
+image: portfolio-1-thumb.jpg
+topics: [studio]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: image7.jpg
-  background_overlay: "rgba(0, 0, 0, 0.4)"
+  background_image: IMG_20140829_173007.jpg
+  background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
 ---
+
+test
 
 {% include block.html 
   block="content-post"
@@ -28,7 +30,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="studio201"
 	caption="true"
 	lightbox="true"
   section_size="medium"

@@ -1,7 +1,7 @@
 ---
-title:  Stonehenge
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: portfolio-9-thumb.jpg
+title: Kot 103
+subtitle: Leuke kamer 19m2 net buiten de ring ideaal voor campus gasthuisberg, sportkot en Heverlee.
+image: portfolio-5-thumb.jpg
 topics: [kot]
 width: full
 navbar:
@@ -10,7 +10,7 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-9-header.jpg
+  background_image: portfolio-5-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
@@ -28,7 +28,7 @@ header:
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="portfolio-set-1"
+	gallery="kot103"
 	caption="true"
 	lightbox="true"
   section_size="medium"
