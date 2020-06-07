@@ -10,7 +10,7 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: portfolio-2-header.jpg
+  background_image: image7.jpg
   background_overlay: "rgba(0, 0, 0, 0.4)"
   color: light
   header_size: xlarge
