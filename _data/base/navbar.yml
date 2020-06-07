@@ -33,6 +33,9 @@ center:
 
   - title: koten
     url: /portfolio/
+
+  - title: FAQ
+    url: /faq/
     
 right:
   - title: Form
