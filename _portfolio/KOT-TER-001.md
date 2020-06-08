@@ -57,5 +57,5 @@ header:
   latitude="50.52297" 
   longitude="4.40298" 
   zoom="12" 
-  style="silver" 
+  style="default" 
 %}
