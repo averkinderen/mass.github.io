@@ -78,7 +78,7 @@ navbar:
 footer:                 # Default footer image settings
   style:                muted # default, muted, primary, secondary
   layout:               columns # center or columns
-  copyright:            Made by <a href="https://unbound.studio/">Unbound Studio</a> in Mexico City.
+  copyright:            Made by Mass BVBA.
 
 mailchimp:
   form_action:          000000
