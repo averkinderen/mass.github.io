@@ -52,3 +52,10 @@ header:
   section_padding_remove="top"
   section_container="small"
 %}
+
+{% include map.html 
+  latitude="50.52297" 
+  longitude="4.40298" 
+  zoom="12" 
+  style="silver" 
+%}
