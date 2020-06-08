@@ -46,17 +46,6 @@ header:
     grid="1-3"
     gutter="large"
   %}
-
-  {% include cta.html 
-    section_size="large"
-    section_image="header-9.jpeg"
-    section_overlay="rgba(0, 0, 0, 0.5)"
-    section_container="small"
-    section_content_align="center"
-    section_content_color="light"
-    layout="1"
-    block="cta-4"
-  %}
   
 {% else %}
 

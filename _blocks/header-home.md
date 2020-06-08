@@ -1,6 +1,6 @@
 ---
-title: Tired of never ending site maintenance
-subtitle: Put an end to constant theme and plugin updates. Build your website with Jekyll static generator and get on with what matters the most, your business.
+title: Welcome bij Koten verhuur Mass BVBA
+subtitle: The best and most attractive student rooms in Leuven.
 ---
 
-{% include button.html text="Purchase" url="#" style="default" size="xlarge" icon="cart" %}
+{% include button.html text="koten" url="/portfolio/" style="default" size="xlarge" icon="home" %}
